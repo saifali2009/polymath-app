@@ -1,0 +1,9 @@
+{
+  "name": "Polymath - The Ultimate Study Hub",
+  "description": "A comprehensive study application offering study materials, quizzes, and AI-powered learning tools across diverse subjects from Quantum Physics to Art History.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
